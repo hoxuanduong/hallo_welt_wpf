@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TestXml xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Organization>Kavokerr</Organization>
+  <Country>Deutschland</Country>
+  <Employees>
+    <Person Age="50" Name="Nobert" />
+    <Person Age="40" Name="Ingrid" />
+    <Person Age="45" Name="Alto" />
+  </Employees>
+</TestXml>

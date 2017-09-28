@@ -1,0 +1,14 @@
+\\server-bc\users$\xuanduong.ho\Visual Studio 2017\Projects\WpfApp1\WpfApp1\bin\Release\WpfApp1.exe.config
+\\server-bc\users$\xuanduong.ho\Visual Studio 2017\Projects\WpfApp1\WpfApp1\bin\Release\WpfApp1.exe
+\\server-bc\users$\xuanduong.ho\Visual Studio 2017\Projects\WpfApp1\WpfApp1\bin\Release\WpfApp1.pdb
+\\server-bc\users$\xuanduong.ho\Visual Studio 2017\Projects\WpfApp1\WpfApp1\obj\Release\MainWindow.g.cs
+\\server-bc\users$\xuanduong.ho\Visual Studio 2017\Projects\WpfApp1\WpfApp1\obj\Release\App.g.cs
+\\server-bc\users$\xuanduong.ho\Visual Studio 2017\Projects\WpfApp1\WpfApp1\obj\Release\GeneratedInternalTypeHelper.g.cs
+\\server-bc\users$\xuanduong.ho\Visual Studio 2017\Projects\WpfApp1\WpfApp1\obj\Release\WpfApp1_MarkupCompile.cache
+\\server-bc\users$\xuanduong.ho\Visual Studio 2017\Projects\WpfApp1\WpfApp1\obj\Release\WpfApp1_MarkupCompile.lref
+\\server-bc\users$\xuanduong.ho\Visual Studio 2017\Projects\WpfApp1\WpfApp1\obj\Release\MainWindow.baml
+\\server-bc\users$\xuanduong.ho\Visual Studio 2017\Projects\WpfApp1\WpfApp1\obj\Release\WpfApp1.g.resources
+\\server-bc\users$\xuanduong.ho\Visual Studio 2017\Projects\WpfApp1\WpfApp1\obj\Release\WpfApp1.Properties.Resources.resources
+\\server-bc\users$\xuanduong.ho\Visual Studio 2017\Projects\WpfApp1\WpfApp1\obj\Release\WpfApp1.csproj.GenerateResource.Cache
+\\server-bc\users$\xuanduong.ho\Visual Studio 2017\Projects\WpfApp1\WpfApp1\obj\Release\WpfApp1.exe
+\\server-bc\users$\xuanduong.ho\Visual Studio 2017\Projects\WpfApp1\WpfApp1\obj\Release\WpfApp1.pdb
